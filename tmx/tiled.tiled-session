@@ -1,0 +1,69 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "/home/grim/Documents/WorkSpace/program/python/Project/2pi/asset/tsx/road.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.33
+        },
+        "Objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.33
+        },
+        "map.tmx": {
+            "scale": 0.5938,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2394.7457056247895,
+                "y": 1303.4691815426072
+            }
+        },
+        "map.tmx#texture-1": {
+            "scaleInDock": 0.5
+        },
+        "texture-0.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "texture-1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/grim/Documents/WorkSpace/program/python/Project/2pi/asset/img",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 256,
+    "map.tileWidth": 256,
+    "openFiles": [
+        "map.tmx",
+        "Objects.tsx",
+        "/home/grim/Documents/WorkSpace/program/python/Project/2pi/asset/tsx/road.tsx"
+    ],
+    "project": "tiled.tiled-project",
+    "recentFiles": [
+        "/home/grim/Documents/WorkSpace/program/python/Project/2pi/asset/tsx/road.tsx",
+        "Objects.tsx",
+        "map.tmx",
+        "texture-0.tsx",
+        "texture-1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 256,
+        "width": 256
+    },
+    "tileset.type": 1
+}

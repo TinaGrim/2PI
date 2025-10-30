@@ -1,0 +1,858 @@
+{
+	"textures": [
+		{
+			"image": "texture-0.png",
+			"size": {
+				"w": 2048,
+				"h": 2045
+			},
+			"sprites": [
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Windmill.png",
+					"region": {
+						"x": 0,
+						"y": 0,
+						"w": 650,
+						"h": 603
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - House.png",
+					"region": {
+						"x": 650,
+						"y": 0,
+						"w": 450,
+						"h": 614
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Castle Round.png",
+					"region": {
+						"x": 1264,
+						"y": 0,
+						"w": 285,
+						"h": 434
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_prop - Tree Large.png",
+					"region": {
+						"x": 1698,
+						"y": 0,
+						"w": 320,
+						"h": 410
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Wooden Bridge Horizontal.png",
+					"region": {
+						"x": 1264,
+						"y": 285,
+						"w": 398,
+						"h": 290
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Wooden Fence Vertical.png",
+					"region": {
+						"x": 1662,
+						"y": 285,
+						"w": 36,
+						"h": 196
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Magic Stone Tower.png",
+					"region": {
+						"x": 1662,
+						"y": 481,
+						"w": 192,
+						"h": 370
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Rock 02.png",
+					"region": {
+						"x": 1698,
+						"y": 410,
+						"w": 80,
+						"h": 48
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Rock 04.png",
+					"region": {
+						"x": 1778,
+						"y": 410,
+						"w": 46,
+						"h": 38
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Rock 03.png",
+					"region": {
+						"x": 1816,
+						"y": 410,
+						"w": 86,
+						"h": 43
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Rock 05.png",
+					"region": {
+						"x": 1902,
+						"y": 410,
+						"w": 41,
+						"h": 38
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Castle Square.png",
+					"region": {
+						"x": 650,
+						"y": 450,
+						"w": 314,
+						"h": 362
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Tent.png",
+					"region": {
+						"x": 1012,
+						"y": 450,
+						"w": 296,
+						"h": 244
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Tree Medium.png",
+					"region": {
+						"x": 1256,
+						"y": 575,
+						"w": 294,
+						"h": 360
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Watchtower Tall.png",
+					"region": {
+						"x": 1012,
+						"y": 746,
+						"w": 242,
+						"h": 312
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Wooden Bridge Vertical.png",
+					"region": {
+						"x": 1616,
+						"y": 673,
+						"w": 226,
+						"h": 300
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Tree Stump Tall.png",
+					"region": {
+						"x": 1916,
+						"y": 869,
+						"w": 152,
+						"h": 127
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Bushes Small.png",
+					"region": {
+						"x": 1916,
+						"y": 673,
+						"w": 124,
+						"h": 100
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Tree Stump Short.png",
+					"region": {
+						"x": 1916,
+						"y": 773,
+						"w": 100,
+						"h": 90
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Wooden Cart.png",
+					"region": {
+						"x": 1254,
+						"y": 869,
+						"w": 284,
+						"h": 134
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Wooden Fence Horizontal.png",
+					"region": {
+						"x": 1538,
+						"y": 869,
+						"w": 202,
+						"h": 74
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 01.png",
+					"region": {
+						"x": 1254,
+						"y": 1021,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 02.png",
+					"region": {
+						"x": 1612,
+						"y": 899,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Wooden Barrel.png",
+					"region": {
+						"x": 1510,
+						"y": 1071,
+						"w": 102,
+						"h": 114
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Well.png",
+					"region": {
+						"x": 1868,
+						"y": 1021,
+						"w": 181,
+						"h": 167
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 03.png",
+					"region": {
+						"x": 1612,
+						"y": 1155,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Treasure Chest.png",
+					"region": {
+						"x": 1868,
+						"y": 1202,
+						"w": 167,
+						"h": 114
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Bushes Medium.png",
+					"region": {
+						"x": 1868,
+						"y": 1316,
+						"w": 164,
+						"h": 122
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Rock 01.png",
+					"region": {
+						"x": 1510,
+						"y": 1185,
+						"w": 106,
+						"h": 86
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 04.png",
+					"region": {
+						"x": 0,
+						"y": 1438,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Campfire.png",
+					"region": {
+						"x": 0,
+						"y": 1277,
+						"w": 154,
+						"h": 122
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Watchtower Short.png",
+					"region": {
+						"x": 0,
+						"y": 1058,
+						"w": 200,
+						"h": 216
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Blue Banner.png",
+					"region": {
+						"x": 122,
+						"y": 1291,
+						"w": 134,
+						"h": 234
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Flag.png",
+					"region": {
+						"x": 356,
+						"y": 1277,
+						"w": 85,
+						"h": 148
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Bushes Large.png",
+					"region": {
+						"x": 200,
+						"y": 1058,
+						"w": 216,
+						"h": 122
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Tree Small.png",
+					"region": {
+						"x": 441,
+						"y": 603,
+						"w": 192,
+						"h": 253
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 05.png",
+					"region": {
+						"x": 0,
+						"y": 764,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Prop - Red Banner.png",
+					"region": {
+						"x": 0,
+						"y": 603,
+						"w": 134,
+						"h": 234
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 06.png",
+					"region": {
+						"x": 0,
+						"y": 1694,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 07.png",
+					"region": {
+						"x": 633,
+						"y": 764,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 08.png",
+					"region": {
+						"x": 322,
+						"y": 1020,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 09.png",
+					"region": {
+						"x": 578,
+						"y": 1020,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 10.png",
+					"region": {
+						"x": 834,
+						"y": 1058,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 11.png",
+					"region": {
+						"x": 441,
+						"y": 1276,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 12.png",
+					"region": {
+						"x": 1090,
+						"y": 1277,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 13.png",
+					"region": {
+						"x": 1346,
+						"y": 1314,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 14.png",
+					"region": {
+						"x": 1602,
+						"y": 1411,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 15.png",
+					"region": {
+						"x": 256,
+						"y": 1667,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 16.png",
+					"region": {
+						"x": 512,
+						"y": 1667,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 17.png",
+					"region": {
+						"x": 768,
+						"y": 1314,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 18.png",
+					"region": {
+						"x": 1024,
+						"y": 1533,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 19.png",
+					"region": {
+						"x": 768,
+						"y": 1570,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 20.png",
+					"region": {
+						"x": 1024,
+						"y": 1789,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 21.png",
+					"region": {
+						"x": 1280,
+						"y": 1570,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 22.png",
+					"region": {
+						"x": 1536,
+						"y": 1667,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 23.png",
+					"region": {
+						"x": 1792,
+						"y": 1667,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7",
+		"format": "RGBA8888",
+	}
+}

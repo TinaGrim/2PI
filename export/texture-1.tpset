@@ -1,0 +1,513 @@
+{
+	"textures": [
+		{
+			"image": "texture-1.png",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"sprites": [
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 24.png",
+					"region": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 25.png",
+					"region": {
+						"x": 0,
+						"y": 256,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 26.png",
+					"region": {
+						"x": 0,
+						"y": 512,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 27.png",
+					"region": {
+						"x": 0,
+						"y": 768,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 28.png",
+					"region": {
+						"x": 0,
+						"y": 1024,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 29.png",
+					"region": {
+						"x": 0,
+						"y": 1280,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 30.png",
+					"region": {
+						"x": 0,
+						"y": 1536,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 31.png",
+					"region": {
+						"x": 0,
+						"y": 1792,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 32.png",
+					"region": {
+						"x": 256,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 33.png",
+					"region": {
+						"x": 512,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 34.png",
+					"region": {
+						"x": 768,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 35.png",
+					"region": {
+						"x": 1024,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 36.png",
+					"region": {
+						"x": 1280,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 37.png",
+					"region": {
+						"x": 1536,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 38.png",
+					"region": {
+						"x": 1792,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 39.png",
+					"region": {
+						"x": 256,
+						"y": 256,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 40.png",
+					"region": {
+						"x": 256,
+						"y": 512,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 41.png",
+					"region": {
+						"x": 256,
+						"y": 768,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 42.png",
+					"region": {
+						"x": 256,
+						"y": 1024,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 43.png",
+					"region": {
+						"x": 256,
+						"y": 1280,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 44.png",
+					"region": {
+						"x": 256,
+						"y": 1536,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 45.png",
+					"region": {
+						"x": 256,
+						"y": 1792,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 46.png",
+					"region": {
+						"x": 512,
+						"y": 256,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 47.png",
+					"region": {
+						"x": 768,
+						"y": 256,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 48.png",
+					"region": {
+						"x": 1024,
+						"y": 256,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 49.png",
+					"region": {
+						"x": 1280,
+						"y": 256,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 50.png",
+					"region": {
+						"x": 1536,
+						"y": 256,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 51.png",
+					"region": {
+						"x": 1792,
+						"y": 256,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 52.png",
+					"region": {
+						"x": 512,
+						"y": 512,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 53.png",
+					"region": {
+						"x": 512,
+						"y": 768,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 54.png",
+					"region": {
+						"x": 512,
+						"y": 1024,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 55.png",
+					"region": {
+						"x": 512,
+						"y": 1280,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "img/Top-Down Simple Summer_Ground 56.png",
+					"region": {
+						"x": 512,
+						"y": 1536,
+						"w": 256,
+						"h": 256
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7",
+		"format": "RGBA8888",
+	}
+}

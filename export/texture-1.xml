@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if sprite is rotated-->
+<TextureAtlas imagePath="texture-1.png" width="2048" height="2048" scale="1" format="RGBA8888">
+  <sprite n="img/Top-Down Simple Summer_Ground 24.png" x="0" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 25.png" x="0" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 26.png" x="0" y="512" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 27.png" x="0" y="768" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 28.png" x="0" y="1024" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 29.png" x="0" y="1280" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 30.png" x="0" y="1536" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 31.png" x="0" y="1792" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 32.png" x="256" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 33.png" x="512" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 34.png" x="768" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 35.png" x="1024" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 36.png" x="1280" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 37.png" x="1536" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 38.png" x="1792" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 39.png" x="256" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 40.png" x="256" y="512" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 41.png" x="256" y="768" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 42.png" x="256" y="1024" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 43.png" x="256" y="1280" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 44.png" x="256" y="1536" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 45.png" x="256" y="1792" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 46.png" x="512" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 47.png" x="768" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 48.png" x="1024" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 49.png" x="1280" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 50.png" x="1536" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 51.png" x="1792" y="256" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 52.png" x="512" y="512" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 53.png" x="512" y="768" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 54.png" x="512" y="1024" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 55.png" x="512" y="1280" w="256" h="256" pX="0.5" pY="0.5"/>
+  <sprite n="img/Top-Down Simple Summer_Ground 56.png" x="512" y="1536" w="256" h="256" pX="0.5" pY="0.5"/>
+</TextureAtlas>
