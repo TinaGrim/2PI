@@ -156,7 +156,7 @@ class TwoPI:
         # game variables
         self.font = pygame.font.Font("Font/LuckiestGuy.ttf", 30)
         self.running = True
-        self.tmx_data = load_pygame("asset/tmx/map.tmx")
+        self.tmx_data = load_pygame("tmx/map.tmx")
         self.map = (self.tmx_data.width * self.tmx_data.tilewidth, self.tmx_data.height * self.tmx_data.tileheight)
         self.player_spawn = (1000, 1350)
 
