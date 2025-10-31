@@ -6,7 +6,7 @@ import math
 
 class Base_Player():
     def __init__(self, player_name, pos, speed=5):
-        self.image = pygame.image.load("asset/img/player.png").convert_alpha()
+        self.image = pygame.image.load("img/player.png").convert_alpha()
         self.image = pygame.transform.scale(self.image, (400, 200))
         self.rect = self.image.get_rect(topleft=pos)
         self.speed = speed
