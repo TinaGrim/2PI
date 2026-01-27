@@ -32,7 +32,7 @@
   <image source="../img/Top-Down Simple Summer_Prop - Magic Stone Tower.png" width="240" height="400"/>
  </tile>
  <tile id="10">
-  <image source="../img/Top-Down Simple Summer_Prop - Red Banner.png" width="160" height="240"/>
+  <image source="../img/Top-Down Simple Summer_Prop - Blue Banner.png" width="160" height="240"/>
  </tile>
  <tile id="11">
   <image source="../img/Top-Down Simple Summer_Prop - Rock 01.png" width="120" height="100"/>
@@ -47,7 +47,7 @@
   <image source="../img/Top-Down Simple Summer_Prop - Rock 04.png" width="60" height="60"/>
  </tile>
  <tile id="15">
-  <image source="../img/Top-Down Simple Summer_Prop - Rock 05.png" width="60" height="60"/>
+  <image source="../img/Top-Down Simple Summer_Prop - Rock 01.png" width="120" height="100"/>
  </tile>
  <tile id="16">
   <image source="../img/Top-Down Simple Summer_Prop - Tent.png" width="300" height="280"/>
@@ -98,6 +98,6 @@
   <image source="../img/Top-Down Simple Summer_Prop - Wooden Fence Horizontal.png" width="220" height="80"/>
  </tile>
  <tile id="32">
-  <image source="../img/Top-Down Simple Summer_Prop - Wooden Fence Vertical.png" width="80" height="220"/>
+  <image source="../img/Top-Down Simple Summer_Prop - Wooden Fence Horizontal.png" width="220" height="80"/>
  </tile>
 </tileset>
